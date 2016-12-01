@@ -1,0 +1,17 @@
+﻿  TuioDemo.cpp
+..\TuioDemo.cpp(101): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(102): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(109): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(129): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\TuioDemo.cpp(131): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\TuioDemo.cpp(132): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\TuioDemo.cpp(140): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(141): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(142): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(143): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\TuioDemo.cpp(159): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\TuioDemo.cpp(160): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\TuioDemo.cpp(161): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+..\TuioDemo.cpp(162): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\JeyJ\Desktop\TUIO11_CPP-master\TUIO11_CPP-master\windows\Debug\x64\libTUIO.lib'

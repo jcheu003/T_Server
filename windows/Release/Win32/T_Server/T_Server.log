@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  T_Server.cpp
+  Generating code
+  All 693 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  T_Server.vcxproj -> C:\Users\JeyJ\Desktop\T_Server_0_2\TUIO11_CPP-master\windows\Release\Win32\T_Server.exe

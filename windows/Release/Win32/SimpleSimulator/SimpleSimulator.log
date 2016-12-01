@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  SimpleSimulator.cpp
+  Generating code
+  All 401 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SimpleSimulator.vcxproj -> C:\Users\JeyJ\Desktop\TUIO11_CPP-master - Copy\TUIO11_CPP-master\windows\Release\Win32\SimpleSimulator.exe

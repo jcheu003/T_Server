@@ -1,0 +1,7 @@
+﻿  SimpleSimulator.cpp
+..\SimpleSimulator.cpp(39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\SimpleSimulator.cpp(40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\SimpleSimulator.cpp(52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\SimpleSimulator.cpp(61): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+..\SimpleSimulator.cpp(230): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\JeyJ\Desktop\TUIO11_CPP-master\TUIO11_CPP-master\windows\Debug\x64\libTUIO.lib'

@@ -1,0 +1,2 @@
+﻿  T_Server.cpp
+c:\users\jeyj\desktop\tuio11_cpp-master - copy\tuio11_cpp-master\windows\t_server.cpp(92): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

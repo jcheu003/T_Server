@@ -1,0 +1,4 @@
+﻿  SimpleSimulator.cpp
+..\SimpleSimulator.cpp(155): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SimpleSimulator.obj : error LNK2019: unresolved external symbol "private: void __thiscall SimpleSimulator::drawFrame(void)" (?drawFrame@SimpleSimulator@@AAEXXZ) referenced in function "public: void __thiscall SimpleSimulator::run(void)" (?run@SimpleSimulator@@QAEXXZ)
+Debug\Win32\SimpleSimulator.exe : fatal error LNK1120: 1 unresolved externals
